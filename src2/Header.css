@@ -1,0 +1,12 @@
+.Header {
+    text-align: center;
+}
+
+.Header-header {
+    background-color:rgb(226, 12, 12);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(10, 12, 10);
+}
