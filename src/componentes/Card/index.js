@@ -1,33 +1,38 @@
 import './Card.css';
 
 const listFilmes = [{
-    "nome": "Vingadores",
-    "duracao": "2H30",
+    "nome": "Bad Boys",
+    "duracao": "1H59",
     "foto": "vingadores.jpg",
-    "ano": 2010,
-    "genero": "Ação/Nerd",
-    "descricao": "filme da Marvel com super-hérois",
+    "ano": 1995,
+    "genero": "Ação/Comédia",
+    "descricao": "Os policiais Burnett e Lowrey são encarregados de encontrar um carregamento de heroína que foi roubado. 
+    Uma testemunha liga para a delegacia dizendo ser capaz de identificar o ladrão. 
+    O pacato Burnett finge ser Lowrey para não perder o caso e acaba tendo que proteger a mulher, enquanto seu parceiro mulherengo cuida de sua família.",
     "nota": 5
 },
 
 {
-    "nome": "Vingadores 2",
-    "duracao": "2H30",
+    "nome": "Bad Boys 2",
+    "duracao": "2H26",
     "foto": "vingadores.jpg",
-    "ano": 2014,
-    "genero": "Ação/Nerd",
-    "descricao": "filme da Marvel com super-hérois",
-    "nota": 5
+    "ano": 2003,
+    "genero": "Ação/Comédia",
+    "descricao": "Os detetives da Narcóticos Marcus Burnett e Mike Lowrey foram designados para investigar a proliferação do ecstasy na cidade de Miami. 
+    As investigações os levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra entre quadrilhas. 
+    Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade deles à prova.",
+    "nota": 4.5
 },
 
 {
-    "nome": "Vingadores 3",
-    "duracao": "2H30",
+    "nome": "Bad Boys para sempre",
+    "duracao": "2H04",
     "foto": "vingadores.jpg",
-    "ano": 2015,
-    "genero": "Ação/Nerd",
-    "descricao": "filme da Marvel com super-hérois",
-    "nota": 5
+    "ano": 2020,
+    "genero": "Ação/Comédia",
+    "descricao": "Marcus é inspetor de polícia e Mike está passando por uma crise de meia idade. 
+    Eles se reúnem novamente quando um mercenário albanês, irmão de alguém do passado de ambos, lhes promete um bônus, no mínimo, interessante.",
+    "nota": 3
 }
 
 ]
