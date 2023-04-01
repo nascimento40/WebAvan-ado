@@ -33,7 +33,7 @@ export default function Card() {
                 <p className="card-text">{card.descricao}</p>
                 <p>{card.nota}</p>
                 <a
-                  href={`/detalhes/${card.nome}`}
+                  href={`/planos/${card.nome}`}
                 >
                   <div className="btn btn-primary">
                     Adquirir
