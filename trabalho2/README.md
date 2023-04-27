@@ -1,3 +1,7 @@
+Fiz em dupla com o Rafael Almeida Silva
+Emiliano do Nascimento (RGM: 26121476)
+Rafael Almeida Silva (RGM: 27694216)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
