@@ -16,6 +16,18 @@ export default function Cadastro() {
     const handleSubmit = (event) => {
         event.preventDefault();
 
+        // Validação do número do cartão
+        if (numeroCartao.length !== 20) {
+            alert("O número do cartão deve conter exatamente 20 dígitos!");
+            return;
+        }
+
+        // Validação do CVC
+        if (cvcCartao.length !== 3) {
+            alert("O CVC deve conter exatamente 3 dígitos!");
+            return;
+        }
+
         const bodyParam = {
             nome: nome,
             telefone: telefone,
